@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.AssemblyInfo.cs
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\bin\Debug\net5.0\FormasGeoMetricas.exe
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\bin\Debug\net5.0\FormasGeoMetricas.deps.json
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\bin\Debug\net5.0\FormasGeoMetricas.runtimeconfig.json
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\bin\Debug\net5.0\FormasGeoMetricas.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\bin\Debug\net5.0\FormasGeoMetricas.dll
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\bin\Debug\net5.0\FormasGeoMetricas.pdb
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.dll
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\refint\FormasGeoMetricas.dll
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.pdb
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\FormasGeoMetricas.genruntimeconfig.cache
+C:\Users\victo\source\repos\Projetos\Polimorfismo\FormasGeoMetricas\obj\Debug\net5.0\ref\FormasGeoMetricas.dll

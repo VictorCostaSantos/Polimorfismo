@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{E526DBD6-4CC7-4193-B89A-C4B6E1167BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormasGeoMetricas", "FormasGeoMetricas\FormasGeoMetricas.csproj", "{0D759AB0-1BC3-496C-AF89-6026F31B69D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E526DBD6-4CC7-4193-B89A-C4B6E1167BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E526DBD6-4CC7-4193-B89A-C4B6E1167BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E526DBD6-4CC7-4193-B89A-C4B6E1167BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E526DBD6-4CC7-4193-B89A-C4B6E1167BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D759AB0-1BC3-496C-AF89-6026F31B69D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D759AB0-1BC3-496C-AF89-6026F31B69D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D759AB0-1BC3-496C-AF89-6026F31B69D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D759AB0-1BC3-496C-AF89-6026F31B69D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EEECAC-32B8-4F91-B607-FC1A44CA3672}
+	EndGlobalSection
+EndGlobal
